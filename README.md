@@ -1,7 +1,8 @@
 awarly-python
 =============
 
-== Installation
+Installation
+------------
 
 You don't need this source code unless you want to modify the package. If you just want to use the Awarly Python bindings, you should run:
 
@@ -17,6 +18,7 @@ To install from source, run:
 
   python setup.py install
 
-== Documentation
+Documentation
+-------------
 
 Please see https://awarly.com/docs for the most up-to-date documentation.
