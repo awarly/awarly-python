@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'Awarly',
     description = 'Awarly Python bindings',
     version = '1.0.0',
     author = 'Awarly',
